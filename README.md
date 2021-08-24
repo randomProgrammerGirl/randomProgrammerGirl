@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @randomProgrammerGirl (she/they) :D
-- 👀 I’m interested in coding (duhh), mcyt stuff (what experiments???), current events, taylor swift, 
-- 🌱 I’m currently learning swift (thanks, kwk!)
+- 👋 Hi, I’m @randomProgrammerGirl (she/xe/he) :D
+- 👀 I’m interested in coding (duhh), mcyt stuff (what experiments???), current events, taylor swift
+- 🌱 I’m currently learning swift (thanks, kwk!), js, and python. 
 - 💞️ I’m looking to collaborate on nothing as of now, thanks!
 - 📫 How to reach me --> haha lmao nope! (unless you know me then you have my info)
+- 📝 Current projects: Discord Reminders Bot, iOS app for pictures :D
 - enjoy some pride flags that describe me: 
 -
 - demigirl: 
